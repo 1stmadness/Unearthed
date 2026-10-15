@@ -1622,7 +1622,7 @@ ExtraInfantryLight=.4
 ExtraAircraftLight=.4
 
 [General]
-DefaultMirageDisguises=TREE019,TREE28,TREE29,TREE30
+DefaultMirageDisguises=TREE19,TREE28,TREE29,TREE30
 SpotlightSpeed=.005
 SpotlightMovementRadius=2100
 SpotlightLocationRadius=1000
