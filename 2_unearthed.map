@@ -4813,7 +4813,7 @@ AreTeamMembersRecruitable=no
 13=Neutral,CAML,256,133,70,4,Harmless,64,None,0,-1,0,0,0
 
 [Structures]
-0=Neutral,CAAIRP,256,87,130,0,None,0,0,1,0,0,None,None,None,0,0
+0=Neutral,CAAIRP,256,87,130,0,01000003,0,0,1,0,0,None,None,None,0,0
 1=Special,CAEGYP01,256,93,97,0,01000077,0,0,1,0,0,None,None,None,0,0
 2=Neutral,CAMORR07,256,143,136,0,None,0,0,1,0,0,None,None,None,0,0
 3=Neutral,SNODAYLAMP,256,100,188,0,None,0,0,1,0,0,None,None,None,0,0
@@ -4827,7 +4827,7 @@ AreTeamMembersRecruitable=no
 11=Neutral,CAMORR06,256,52,69,0,None,0,0,1,0,0,None,None,None,0,0
 12=Neutral,CAMORR09,256,45,64,0,None,0,0,1,0,0,None,None,None,0,0
 13=Neutral,CAMORR07,256,49,56,0,None,0,0,1,0,0,None,None,None,0,0
-14=Neutral,CAAIRP,256,105,62,0,None,0,0,1,0,0,None,None,None,0,0
+14=Neutral,CAAIRP,256,105,62,0,01000005,0,0,1,0,0,None,None,None,0,0
 15=Neutral,INPURPLAMP,256,106,63,0,None,0,0,1,0,0,None,None,None,0,0
 16=Neutral,INPURPLAMP,256,116,159,0,None,0,0,1,0,0,None,None,None,0,0
 17=Neutral,INPURPLAMP,256,78,35,0,None,0,0,1,0,0,None,None,None,0,0
