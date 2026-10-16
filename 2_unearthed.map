@@ -4133,8 +4133,8 @@ Group=-1
 
 [Triggers]
 01000000=Neutral,<none>,Map Reveal Trigger,1,1,1,1,0
-01000002=Neutral,<none>,PreCap A,0,1,1,1,0
-01000004=Neutral,<none>,PreCap B,0,1,1,1,0
+01000002=Neutral,<none>,IF YR > PreCap A,0,1,1,1,0
+01000004=Neutral,<none>,IF YR > PreCap B,0,1,1,1,0
 01000008=Neutral,<none>,Spotlight A debug,1,1,1,1,0
 01000010=Neutral,<none>,Spotlight B debug,1,1,1,1,0
 01000018=Special,<none>,If Pyramid piece B is destroyed > Kill all,0,1,1,1,0
@@ -4277,8 +4277,8 @@ Group=-1
 
 [Events]
 01000000=1,13,0,0
-01000002=1,8,0,0
-01000004=1,8,0,0
+01000002=1,32,0,301
+01000004=1,32,0,301
 01000008=1,66,0,0
 01000010=1,66,0,0
 01000018=1,61,2,0,CAEGYP04
@@ -4581,8 +4581,8 @@ Group=-1
 
 [Tags]
 01000001=0,Map Reveal Trigger (tag),01000000
-01000003=0,PreCap A (tag),01000002
-01000005=0,PreCap B (tag),01000004
+01000003=0,IF YR > PreCap A (tag),01000002
+01000005=0,IF YR > PreCap B (tag),01000004
 01000009=2,Spotlight A debug (tag),01000008
 01000011=2,Spotlight B debug (tag),01000010
 01000019=0,If Pyramid piece B is destroyed > Kill all (tag),01000018
